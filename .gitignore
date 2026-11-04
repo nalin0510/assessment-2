@@ -1,0 +1,8 @@
+.venv/
+.python/
+.uv-cache/
+.hf-cache/
+.cache/
+__pycache__/
+*.py[cod]
+demo-output.txt

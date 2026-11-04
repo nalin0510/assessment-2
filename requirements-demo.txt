@@ -1,0 +1,5 @@
+# Lightweight CPU demo dependencies. The full training stack is in requirements.txt.
+transformers==4.44.2
+torch==2.5.1
+pandas==2.2.3
+
